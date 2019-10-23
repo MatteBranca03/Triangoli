@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangoli", "Triangoli\Triangoli.csproj", "{FEA75ECC-3A5A-40F8-8E58-5BBD0EF5377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA75ECC-3A5A-40F8-8E58-5BBD0EF5377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA75ECC-3A5A-40F8-8E58-5BBD0EF5377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA75ECC-3A5A-40F8-8E58-5BBD0EF5377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA75ECC-3A5A-40F8-8E58-5BBD0EF5377D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF0FA99-3A96-4AA3-AD89-C8B7A5BC1578}
+	EndGlobalSection
+EndGlobal
